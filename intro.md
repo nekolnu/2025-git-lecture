@@ -2,3 +2,7 @@
 ## Arumino
 - name: Arumino
 - like: yamaokaya
+
+## lencon
+- name: lencon
+- like: game
